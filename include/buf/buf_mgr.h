@@ -16,6 +16,7 @@ struct Page {
   char *frame;
 };
 
+
 class BufferPool {
  private:
   const size_t capacity_in_pages;

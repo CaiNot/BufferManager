@@ -5,7 +5,7 @@ BufferPool::BufferPool(const size_t page_size, const size_t page_num) : capacity
   assert(page_size % 4 == 0);
   assert(page_num);
 
-  // 获得大内存来自己管理
+  // get large memory to avoid frequently malloc and free 
   Page *pages = (Page *)malloc(page_num * sizeof(Page));
   char *frames = (char *)malloc(page_num * page_size * sizeof(char));
   
