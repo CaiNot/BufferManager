@@ -1,3 +1,0 @@
-/mnt/e/Project/BufferMange/BufferManager/build/CMakeFiles/rebuild_cache.dir
-/mnt/e/Project/BufferMange/BufferManager/build/CMakeFiles/buf_mgr_test.dir
-/mnt/e/Project/BufferMange/BufferManager/build/CMakeFiles/edit_cache.dir

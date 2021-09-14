@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/buf_mgr_test.dir/test/buf_mgr_test.cpp.o CMakeFiles/buf_mgr_test.dir/src/buf/buf_mgr.cpp.o  -o buf_mgr_test 
